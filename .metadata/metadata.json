@@ -6,6 +6,6 @@
 	"short_description":	"Desc",
 	"tags":	[],
 	"relationships":	[],
-	"game_custom_data":	{
-}
+	"thumbnail" : "thumbnail.png",
+	"game_custom_data":	{}
 }
